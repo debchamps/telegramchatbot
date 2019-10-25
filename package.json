@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/debchamps/telegramchatbot#readme",
   "dependencies": {
+    "firebase": "^7.2.2",
+    "google-spreadsheet": "^2.0.3",
+    "nedb": "^1.8.0",
     "node-telegram-bot-api": "^0.40.0",
+    "open-graph-scraper": "^3.6.2",
     "package.json": "^2.0.1"
   }
 }
