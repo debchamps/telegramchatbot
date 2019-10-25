@@ -1,0 +1,26 @@
+{
+  "name": "telegramchatbot",
+  "version": "1.0.0",
+  "description": "CHat bot for telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debchamps/telegramchatbot.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "debarghya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debchamps/telegramchatbot/issues"
+  },
+  "homepage": "https://github.com/debchamps/telegramchatbot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "package.json": "^2.0.1"
+  }
+}
